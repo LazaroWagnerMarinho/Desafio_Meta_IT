@@ -8,4 +8,4 @@ Caso dê erro:
 
 |a - foi feito com Angular 9 |
 
-|b - foi baixando o material do angular `ng add @angular/material`|
+|b - o download da biblioteca do angular   `ng add @angular/material`|
