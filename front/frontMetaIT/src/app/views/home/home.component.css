@@ -1,0 +1,31 @@
+.toolbarPricipal{
+    padding-top: 40px; 
+    padding-left: 2%; 
+    padding-right: 2%;
+  }
+  .divPagina{
+    padding-left: 2%; 
+    padding-right: 2%;
+  }
+  .example-spacer {
+      flex: 1 1 auto;
+    }
+  
+  .example-full-width {
+    width: 100%;
+  }
+  
+  .toolbarSuperior {
+    font-size: 1.2rem; 
+    height: 90px;
+    padding: 0 64px;
+  }
+  
+  .espacamento {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  .mat-toolbar-row{
+    padding: 0 64px import;
+  
+  }
